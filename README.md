@@ -1,4 +1,4 @@
 # troubleshooting-docs
 삽질기록
 
-- [🍃Spring](./spring)
+- [🍃Spring](./spring/README.md)
