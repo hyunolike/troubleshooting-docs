@@ -4,8 +4,9 @@
 ![image](https://user-images.githubusercontent.com/61215550/154872087-c49d88cd-5bd0-4bec-bad7-61530d358e1c.png)
 
 ## 해결
-- 코드 잘못 파악함 ㅠ,ㅠ
+- 코드 잘못 읽음 ㅠ,ㅠ
 
+`기존`
 ```java
 @Test
 public void 직접_데이터_넣기() {
@@ -19,7 +20,7 @@ public void 직접_데이터_넣기() {
 }
 ```
 
-
+`개선후`
 ```java
   @Test
   public void 직접_데이터_넣기() {
