@@ -22,6 +22,9 @@ public CardListInfo.Data showCard(){
 
 ## 추가
 - 객체안에 객체안에 객체
+    - `dto` 크게 3가지 필요 >> `Response` `CardListInfo` `CardList`
+
+![image](https://user-images.githubusercontent.com/61215550/155087376-2651fea7-6680-4980-99ff-c0911bd52cb5.png)
 
 ```java
 @PostMapping
