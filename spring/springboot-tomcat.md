@@ -6,6 +6,7 @@
 - 아래의 의존성 제거 후 실행
 - [스택오버플로우 참고 링크](https://stackoverflow.com/questions/22380119/why-does-my-spring-boot-app-always-shutdown-immediately-after-starting)
 - `providedRuntime`은 런타임 시점에 의존성 제공 > 여기서 이슈 발생! 
+  - 기존 로컬에 톰캣 설치가 된 상태 > 여기서 충돌!! 🖐🏻
 
 `providedRuntime 'org.springframework.boot:spring-boot-starter-tomcat'`
 
