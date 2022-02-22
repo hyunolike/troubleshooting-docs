@@ -20,3 +20,21 @@ public CardListInfo.Data showCard(){
 ![image](https://user-images.githubusercontent.com/61215550/155083304-df0ecd1e-90c4-413d-92a2-aa5f4029030d.png)
 
 
+## 추가
+- 객체안에 객체안에 객체
+
+```java
+@PostMapping
+public Response<CardListInfo.Data> showCard(){
+    List<CardList> list = new ArrayList<>();
+    for(int i=0; i<100; i++){
+        list.add(CardList.builder().cardInfo("테스트"+ i).build());
+    }
+    CardListInfo.Data cardListInfo = CardListInfo.Data.builder().result(true).cardList(list).build();
+    Response result = new Response<>(cardListInfo);
+
+    return result;
+}
+```
+
+![image](https://user-images.githubusercontent.com/61215550/155084390-36a15cea-60ea-475a-81e0-5b31d10d1843.png)
