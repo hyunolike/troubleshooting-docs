@@ -6,3 +6,4 @@
 - [스프링부트 서버 실행안되는 현상](./springboot-tomcat.md)
 - [`@RestController` 이용시 Error - debug enbled](./restcontroller-error.md)
 - [JPA delete 쿼리메서드 사용시 `@Transactional`](./jpa-delete.md)
+- [`@AuthenticationPrincipal` Spring Security 커스텀 사용자 db에서 값 가져오는 방법](./security-get.md)
