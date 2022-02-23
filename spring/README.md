@@ -4,3 +4,4 @@
 - [유닛 테스트 진행 시 실제 데이터 삽입 안되는 현상](./junit-mysql.md)
 - [`@ResponseBody` 객체안에 리스트 객체 넣는 방법](./responseboy.md)
 - [스프링부트 서버 실행안되는 현상](./springboot-tomcat.md)
+- [`@RestController` 이용시 Error - debug enbled](./restcontroller-error.md)
