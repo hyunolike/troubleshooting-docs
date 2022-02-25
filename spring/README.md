@@ -8,3 +8,4 @@
 - [JPA delete 쿼리메서드 사용시 `@Transactional`](./jpa-delete.md)
 - [`@AuthenticationPrincipal` Spring Security 커스텀 사용자 db에서 값 가져오는 방법](./security-get.md)
 - [`JPA` 쿼리메소드 오류](./jpa-query-method.md)
+- [`Junit` 테스트 메인 실행 패키지 동일하게 안만들면 발생되는 문제](./junit-pakage.md)
