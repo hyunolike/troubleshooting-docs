@@ -9,3 +9,4 @@
 - [`@AuthenticationPrincipal` Spring Security 커스텀 사용자 db에서 값 가져오는 방법](./security-get.md)
 - [`JPA` 쿼리메소드 오류](./jpa-query-method.md)
 - [`Junit` 테스트 메인 실행 패키지 동일하게 안만들면 발생되는 문제](./junit-pakage.md)
+- [`Junit` MockMvc perform() 메서드에 대한 오류 가져오기](./mockmvc.md)
