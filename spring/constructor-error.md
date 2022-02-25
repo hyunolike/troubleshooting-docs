@@ -10,8 +10,8 @@ public class CardInfo {
     @Getter @Setter
     @Builder
     @ToString
-    @AllArgsConstructor ✔
-    @NoArgsConstructor ✔
+    @AllArgsConstructor  ⭐
+    @NoArgsConstructor ⭐
     public static class Request{
         String cardInfo;
     }
