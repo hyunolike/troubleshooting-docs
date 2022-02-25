@@ -10,4 +10,4 @@
 - [`JPA` 쿼리메소드 오류](./jpa-query-method.md)
 - [`Junit` 테스트 메인 실행 패키지 동일하게 안만들면 발생되는 문제](./junit-pakage.md)
 - [`Junit` MockMvc perform() 메서드에 대한 오류 가져오기](./mockmvc.md)
-- [cannot deserialize from object value 에러!](./constructor-error.md)
+- [`cannot deserialize from object value` 에러!](./constructor-error.md)
