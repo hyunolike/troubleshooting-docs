@@ -13,3 +13,4 @@
 - [`cannot deserialize from object value` 에러!](./constructor-error.md)
 - [`@Query` 에러 발생](./query.md) 
 - [`@DataJpaTest` datasource 오류](./datajpa.md)
+- [could not extract ResultSet 에러](./query-error.md)
