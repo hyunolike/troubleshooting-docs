@@ -12,3 +12,4 @@
 - [`Junit` MockMvc perform() 메서드에 대한 오류 가져오기](./mockmvc.md)
 - [`cannot deserialize from object value` 에러!](./constructor-error.md)
 - [`@Query` 에러 발생](./query.md) 
+- [`@DataJpaTest` datasource 오류](./datajpa.md)
