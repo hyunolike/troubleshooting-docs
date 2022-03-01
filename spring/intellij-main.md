@@ -1,5 +1,5 @@
 ## 문제
-- `[Error] Intellij Spring 'Could not find or load main class' Caused by 'java.lang.ClassNotFoundException'
+- `[Error] Intellij Spring 'Could not find or load main class' Caused by 'java.lang.ClassNotFoundException`
 - 메인 클래스 실행 시 위와 같이 메인 클래스를 찾지 못하는 문제
 
 ## 해결
