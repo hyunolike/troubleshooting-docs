@@ -16,3 +16,4 @@
 - [`could not extract ResultSet` 에러](./query-error.md)
 - [Transaction silently rolled back because it has been marked as rollback-only](./transaction-error.md)
 - [인텔리제이 메인클래스 실행 오류](./intellij-main.md)
+- [사라진 내장톰캣서버](./tomcat.md)
