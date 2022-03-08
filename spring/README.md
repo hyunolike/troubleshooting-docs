@@ -23,3 +23,4 @@
 - [JPA pageable 에러](./pageable.md)
 - [thymeleaf 에러](./thymeleaf.md)
 - [`org.springframework.validation.BindException` ?? 폼 요청 에러](./form.md)
+- [자바 버전 교체](./java-version.md)
