@@ -1,4 +1,5 @@
 ## 문제
+- `Ports are not available, Container Name "/XXX" is already in use by container` 에러 명
 - `PS C:\Users\hh.jang> docker run --name mariadb_kona -p 3308:3306 -e MYSQL_ROOT_PASSWORD=kona1234 -d 620b63fe3891`
 - 위와 같이실행 후 외부 접속 포트로 연결이 안됨
 
