@@ -25,3 +25,4 @@
 - [`org.springframework.validation.BindException` ?? 폼 요청 에러](./form.md)
 - [자바 버전 교체](./java-version.md)
 - [`@Builder` 사용 시 `@NoArgsConstructor` 관련 에러](./builder.md)
+- [`Maven` 빌드시 테스트 제외](./mvn.md)
