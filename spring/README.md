@@ -28,3 +28,4 @@
 - [`Maven` 빌드시 테스트 제외](./mvn.md)
 - [스프링 xml 의존성 주입과정에서 클래스 경로 찾지 못하는 에러](./xml-error.md)
 - [롬복 어노테이션 오류 `actual and formal argument lists differ in length`](./lombok-error.md)
+- [`swagger-ui` 버전 에러](./swagger-ui.md)
