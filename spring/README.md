@@ -30,4 +30,4 @@
 - [롬복 어노테이션 오류 `actual and formal argument lists differ in length`](./lombok-error.md)
 - [`swagger-ui` 버전 에러](./swagger-ui.md)
 - [`JSch` 권한 허용 불가 에러](./jsch-permission.md)
-- [`미해결` 엔티티 JSON 변환 에러](https://github.com/hyunolike/troubleshooting-docs/blob/main/spring/entity-json.md)
+- [엔티티 JSON 변환 에러](https://github.com/hyunolike/troubleshooting-docs/blob/main/spring/entity-json.md)
