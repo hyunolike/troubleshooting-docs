@@ -6,4 +6,9 @@
 
 
 ## 해결
-...
+> [참고 자료](https://powernote.tistory.com/21)
+- ✔ `DTO`는 마지막 리턴에서 변환해주면서 넘기자! 
+- 양방향 관계? 로 인한 변환 에러
+- `fetch = FetchType.LAZY` 문제
+- 해결!! `@JsonBackReference` 어노테이션 추가
+
