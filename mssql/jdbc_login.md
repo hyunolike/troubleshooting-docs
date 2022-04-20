@@ -1,4 +1,6 @@
 ## 문제
+> [참고 자료 1](https://okky.kr/article/220386) <br>
+> [참고 자료 2](https://docs.microsoft.com/ko-kr/sql/connect/jdbc/system-requirements-for-the-jdbc-driver?view=sql-server-ver15)
 - `Spring Boot` 를 이용해 `MSSQL` 연동시 발생하는 문제
 - 에러는 무슨 드라이버 설정? 에러 및 로그인 에러 2개 발생
 
@@ -19,3 +21,5 @@ dependencies {
     implementation files('libs/mssql-jdbc-10.2.0.jre8.jar')
 }
 ```
+- 자바 버전별 지원하는 jdbc가 다르다.
+- ![image](https://user-images.githubusercontent.com/61215550/164156390-fcf46b3a-5c0a-4759-8315-657f75fbeb7d.png)
