@@ -8,3 +8,7 @@
 - ✔ 마지막으로 푸시 때린후, 해당 병합 부분 찾아서 충돌 해결하기!
 - 다시 원격 업데이트 !! 하면 끝
 - ![image](https://user-images.githubusercontent.com/61215550/164390024-09040ff3-ed2a-4243-a9f2-96e63b18ae85.png)
+### 충돌 예방 ✌
+1. 메인 브랜치 pull
+2. 그 다음 브랜치 merge
+3. push
