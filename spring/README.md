@@ -32,3 +32,4 @@
 - [`JSch` 권한 허용 불가 에러](./jsch-permission.md)
 - [엔티티 JSON 변환 에러](https://github.com/hyunolike/troubleshooting-docs/blob/main/spring/entity-json.md)
 - [`JPQL` Update Query 작성시 발생 오류](./jpql-update-error.md)
+- [`hibernate 오류`  ids for this class must be manually assigned before calling save()](./hibernate-error-md)
