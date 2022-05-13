@@ -31,3 +31,4 @@
 - [`swagger-ui` 버전 에러](./swagger-ui.md)
 - [`JSch` 권한 허용 불가 에러](./jsch-permission.md)
 - [엔티티 JSON 변환 에러](https://github.com/hyunolike/troubleshooting-docs/blob/main/spring/entity-json.md)
+- [`JPQL` Update Query 작성시 발생 오류](./jpql-update-error.md)
