@@ -1,0 +1,8 @@
+## 문제
+- `ids for this class must be manually assigned before calling save()`
+- DB의 PK값 설정하지 않고 무작정 업데이트 하고자 함
+  - 기존 PK값은 직접 할당하는 방식
+
+## 해결
+- 직접 할당을 해서 접근한 다음 업데이트를 진행한다.
+- `usimpayRepository.updateStatusFromOrder(shippingTrySubList.get(recordOrder).getOrderNo(), "DONE");`
