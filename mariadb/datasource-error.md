@@ -12,3 +12,32 @@ spring:
     username: root
     password: 1111
 ```
+
+## 추가
+### 스프링에서 데이터베이스 접속을 하지 못하는 경우 해결책
+1. `application.yml` 파일에 데이터 소스 추가
+2. `Configuration` 생성(Bean 이용한 디비 사용)
+```java
+@Configuration
+public class DBConfiguration {
+    @Bean
+    public DataSource datasource() {
+      return DataSourceBuilder.create()
+      .driverClassName("")
+      .url("")
+      .username("")
+      .password("")
+      .build(); 
+    }
+}
+```
+3. `DataSourceAutoConfiguration` 제외(디비 사용안한다는 뜻)
+
+```java
+@SpringBootApplication(exclude={DataSourceAutoConfiguration.class})
+public class Sample01Application {
+	public static void main(String[] args) {
+		SpringApplication.run(Sample01Application.class, args);
+	}
+}
+```
