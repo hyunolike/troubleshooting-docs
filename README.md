@@ -8,6 +8,7 @@
 - [🦦MariaDB](./mariadb/README.md)
 - [🐬MySQL](./mysql/README.md)
 - [🦔MSSQL](./mssql/README.md)
+- [🐌H2 DB](./h2/README.md)
 - [🐳Docker](./docker/README.md)
 - [📌Git](./git/README.md)
 - [🐰Tool](./tool/README.md)
