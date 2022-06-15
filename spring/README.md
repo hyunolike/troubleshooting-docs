@@ -35,3 +35,4 @@
 - [`hibernate 오류`  ids for this class must be manually assigned before calling save()](./hibernate-error-md)
 - [`@CreatedDate` null 업데이트 되는 에러](./created-auditing.md)
 - [인텔리제이 변경된 코드 적용안되는 문제](./intellij-error.md)
+- [`: Unable to access jarfile target`](./error-jar.md)
