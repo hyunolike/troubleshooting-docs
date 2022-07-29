@@ -1,4 +1,5 @@
 ## 문제
+> [참고자료](https://stackoverflow.com/questions/70923478/flywayexception-unsupported-database-mariadb-10-5)
 - Maria DB 10.5 버전 지원 안하는 문제 
 
 ## 해결
