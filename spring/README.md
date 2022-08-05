@@ -36,3 +36,4 @@
 - [`@CreatedDate` null 업데이트 되는 에러](./created-auditing.md)
 - [인텔리제이 변경된 코드 적용안되는 문제](./intellij-error.md)
 - [`: Unable to access jarfile target`](./error-jar.md)
+- [`Gradle` 버전 설치 불가 에러 ㅠ,ㅠ `could not install Gradle distribution from`](./gradle-error.md)
