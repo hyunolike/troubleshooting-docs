@@ -6,3 +6,5 @@
 - 아래 사진 참고
 - <img width="342" alt="image" src="https://user-images.githubusercontent.com/61215550/183811640-55d25455-95fc-4af0-8381-c432a2ab11e8.png">
 - <img width="230" alt="image" src="https://user-images.githubusercontent.com/61215550/183811852-0aa90df2-433a-4e58-bb82-7272b4cc6eb7.png">
+- <img width="175" alt="image" src="https://user-images.githubusercontent.com/61215550/183812006-1fd6d1de-f9c8-43cc-80e0-d9dd84c8dc8d.png">
+
