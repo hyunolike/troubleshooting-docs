@@ -3,3 +3,4 @@
 - [TypeError: Cannot read property 'prototype' of undefined](./response-express.md)
 - [export 'withRouter' (imported as 'withRouter') was not found in 'react-router-dom'](./withRouter.md)
 - [`Router v6` Route element hoc 적용](./hoc.md)
+- [`Objects are not valid as a React child`](./react-child-error.md)
