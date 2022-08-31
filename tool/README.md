@@ -3,3 +3,4 @@
 - [`postman` - Postman Error: self signed certificate in certificate chain](./self-certification-chain.md)
 - [`source tree` - 상단 메뉴 변경 및 브랜치 생성 팁](./sourcetree-tip.md)
 - [`intellij` github token 연결](./intellij-github-token.md)
+- [`intellij` 패키지 생성 인식 문제 ㅠ,ㅠ](./intellij-package-name.md)
