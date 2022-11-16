@@ -7,3 +7,4 @@
 - [`Node.js` 에서 `document` 객체는 사용 불가 ㅠ,ㅠ](./node-document.md)
 - [`ERR_MOCHA_MULTIPLE_DONE` 발생 ㅠ,ㅠ](./mocha-error.md)
 - [`mochawesome` 테스트 레포트명 변경 안되는 문제](./mochawesome-report.md)
+- [input `readOnly` 값 가져오는 방법](./input-readonly.md)
