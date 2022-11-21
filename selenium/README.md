@@ -8,3 +8,4 @@
 - [`ERR_MOCHA_MULTIPLE_DONE` 발생 ㅠ,ㅠ](./mocha-error.md)
 - [`mochawesome` 테스트 레포트명 변경 안되는 문제](./mochawesome-report.md)
 - [input `readOnly` 값 가져오는 방법](./input-readonly.md)
+- [이니시스? 결제창 값 검증 방법](./switch-to.md)
