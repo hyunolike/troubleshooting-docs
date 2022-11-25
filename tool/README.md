@@ -5,3 +5,4 @@
 - [`intellij` github token 연결](./intellij-github-token.md)
 - [`intellij` 패키지 생성 인식 문제 ㅠ,ㅠ](./intellij-package-name.md)
 - [`prometheus` prometheus: error: unknown short flag '-c'](./prometheus-flag-error.md)
+- [`vscode` html 자동완성 안될경우](./vscode-html.md)
