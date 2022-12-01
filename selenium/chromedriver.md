@@ -11,3 +11,8 @@
 ```
  "chromedriver": "^107.0.3",
 ```
+
+
+|크롬 브라우저 버전|크롬 드라이버 버전|
+|---|---|
+|![image](https://user-images.githubusercontent.com/61215550/205182290-f37b81b7-d6f8-4315-b88a-848f41204648.png)|![image](https://user-images.githubusercontent.com/61215550/205182318-394a9bf7-bf8e-4b65-a604-c2c02edae371.png)|
