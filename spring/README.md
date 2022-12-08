@@ -38,3 +38,4 @@
 - [`: Unable to access jarfile target`](./error-jar.md)
 - [`Gradle` 버전 설치 불가 에러 ㅠ,ㅠ `could not install Gradle distribution from`](./gradle-error.md)
 - [`Spring Boot` `Gradle` 버전 서로 맞춰야됨 지원하는걸로](./support-gradle.md)
+- [`compile()` gradle 에러](./compile-gradle.md)
