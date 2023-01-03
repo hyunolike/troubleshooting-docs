@@ -5,3 +5,4 @@
 - [`Router v6` Route element hoc 적용](./hoc.md)
 - [`Objects are not valid as a React child`](./react-child-error.md)
 - [`yarn` 리엑트 설치 에러 - Either try using a new directory name, or remove the files listed above.](./yarn-react-install.md)
+- [`yarn` 명령어 실행 에러 - Yarn: unable to verify the first certificate](./yarn-ssl.md)
