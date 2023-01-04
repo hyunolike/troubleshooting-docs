@@ -22,3 +22,4 @@
 - [🛠CI/CD](./cicd/README.md)
 - [🚩Flyway](./flyway/README.md)
 - [🌠Selenium](./selenium/README.md)
+- [🐾Solidity](./solidity/README.md)
