@@ -8,3 +8,4 @@
 - [`yarn` 명령어 실행 에러 - Yarn: unable to verify the first certificate](./yarn-ssl.md)
 - [`yarn` 리엑트 설치 에러 - The engine "node" is incompatible with this module. Expected version 오류](./yarn-ignore-engine.md)
 - [`{}` 모듈 에러](./module-err.md)
+- [node-gyp with python3 파일 삭제가 안됨](./python3.md)
