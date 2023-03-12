@@ -3,3 +3,4 @@
 - [Index 변경 권한 에러](./index.md)
 - [ORA-00955: name is already used by an existing object](./table-already.md)
 - [(ORA-01950) - no privileges on tablespace 'USERS'](./user-error.md)
+- [오라클 예약어 테이블명은 생성 안됨](./oracle-table-name.md)
