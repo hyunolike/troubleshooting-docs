@@ -9,3 +9,4 @@
 - [`yarn` 리엑트 설치 에러 - The engine "node" is incompatible with this module. Expected version 오류](./yarn-ignore-engine.md)
 - [`{}` 모듈 에러](./module-err.md)
 - [node-gyp with python3 파일 삭제가 안됨](./python3.md)
+- [페이지 마운팅 중일때 `useState`을 함수로 세팅한 값은 못불러온다](./useState-fun.md)
