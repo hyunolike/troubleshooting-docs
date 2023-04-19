@@ -8,3 +8,4 @@
 - [`prometheus` prometheus: error: unknown short flag '-c'](./prometheus-flag-error.md)
 - [`vscode` html 자동완성 안될경우](./vscode-html.md)
 - [`dbeaver` - enum 대소문자 변경 방법](./upper-lower.md)
+- [`intellij` - Intellij Debugger slow: Method breakpoints may dramatically slow down debugging](./debuggin.md)
