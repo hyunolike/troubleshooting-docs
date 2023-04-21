@@ -42,3 +42,4 @@
 - [`h2` 드라이버 못찾아오는 문제](./h2-driver.md)
 - [QueryDSL 초기 설정 안한 문제](./querydsl-init.md)
 - [`data.sql` 동작 안되는 문제](./data-sql.md)
+- [`beans.factory.UnsatisfiedDependencyException` 빈 등록 에러](./bean-error.md)
