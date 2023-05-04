@@ -43,3 +43,4 @@
 - [QueryDSL 초기 설정 안한 문제](./querydsl-init.md)
 - [`data.sql` 동작 안되는 문제](./data-sql.md)
 - [`beans.factory.UnsatisfiedDependencyException` 빈 등록 에러](./bean-error.md)
+- [`No serializer found for class`](./getter-error.md)
