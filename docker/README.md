@@ -12,3 +12,4 @@
 - [도커 데몬 실행안되는 문제](./docker-daemon.md)
 - [도커 컴포즈 네트워크 실행 에러 ㅠ,ㅠ](./docker-compose-network-error.md)
 - [도커 컴포즈 이용 시, 처음 볼륨 파일 권한 설정 안내 메시지](./docker-file-sharing.md)
+- [Connot connect to the Docker daemon at ... Is the docker daemon running?](colima-desktoplinux.md)
