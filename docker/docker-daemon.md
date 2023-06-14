@@ -1,3 +1,7 @@
+## `2023/06/14` 기준 도커 데스크톱 버전 업데이트로 해결
+- ![image](https://github.com/hyunolike/troubleshooting-docs/assets/61215550/4b9dbff0-4385-428e-ba1e-76ed16b2a1c5)
+
+---
 ## 문제
 - 도커 데몬 실행 안되는 문제 ㅠ,ㅠ
 
