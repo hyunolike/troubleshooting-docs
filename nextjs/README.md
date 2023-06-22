@@ -3,3 +3,4 @@
 - [`nextjs` 모든 npm 명령어 안됨](./npm-v.md)
 - [`tailwindcss` 적용안되는 문제](./tailwindcss.md)
 - [RenderErrorBoundary](./RenderErrorBoundary.md)
+- [렌더링 중 오류 발생 - Application error: a client ...](./error-boundary.md)
