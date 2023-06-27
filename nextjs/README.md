@@ -4,3 +4,4 @@
 - [`tailwindcss` 적용안되는 문제](./tailwindcss.md)
 - [RenderErrorBoundary](./RenderErrorBoundary.md)
 - [렌더링 중 오류 발생 - Application error: a client ...](./error-boundary.md)
+- [`react query` QueryClientProvider import 에러](./error-react-query.md)
