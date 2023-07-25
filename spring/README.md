@@ -45,3 +45,4 @@
 - [`beans.factory.UnsatisfiedDependencyException` 빈 등록 에러](./bean-error.md)
 - [`No serializer found for class`](./getter-error.md)
 - [`Spring Data JPA` - No property desc/asc found for type Error](./jpa-no-property.md)
+- [`SpringSecurity` `JPA` 업데이트 안되는 문제](./security-jpa.md)
