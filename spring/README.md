@@ -47,3 +47,4 @@
 - [`Spring Data JPA` - No property desc/asc found for type Error](./jpa-no-property.md)
 - [`SpringSecurity` `JPA` 업데이트 안되는 문제](./security-jpa.md)
 - [[Java Mail] Could not convert socket to TLS](./java-mail.md)
+- [인텔리제이 자바 버전 못가져오는 문제](./intellij-java-version.md)
