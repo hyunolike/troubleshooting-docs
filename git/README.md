@@ -4,3 +4,4 @@
 - [git push하기전에 원격 레포에 변경 사항 있는 경우](./git-push-pull.md)
 - [협업과정에서 작성된 코드가 사라지는 문제](./merge-revert.md)
 - [`gitlab` fatal: Unencrypted HTTP is not supported for GitLab. Ensure the repository remote URL is using HTTPS.](./gitlab-http-error.md)
+- [`git statsh` 메시지 에러](./git-stash.md)
