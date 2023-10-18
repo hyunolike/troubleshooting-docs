@@ -10,4 +10,5 @@
   3. `ON DUPLICATE KEY UPDATE`: DUPLICATE KEY 일때 UPDATE 하는 쿼리
 
 - ⭐일단 임의로 계속 `primary key` 증가시켜 중복안되게해서 insert 함!
+  - 여기서 `primary key`는 자동증가 키!
 - 다음에는 위 3가지 방법 중 하나 선택해 실행
