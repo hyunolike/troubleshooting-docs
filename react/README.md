@@ -11,3 +11,4 @@
 - [node-gyp with python3 파일 삭제가 안됨](./python3.md)
 - [페이지 마운팅 중일때 `useState`을 함수로 세팅한 값은 못불러온다](./useState-fun.md)
 - [`useContext` null ... nodemodule 폴더 위치 다름...?](./node-module.md)
+- [`zustand` - `auto-zustand-selectors-hook` 라이브러리 주의사항](./zustand-issue.md)
