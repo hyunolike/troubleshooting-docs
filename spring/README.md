@@ -49,3 +49,4 @@
 - [[Java Mail] Could not convert socket to TLS](./java-mail.md)
 - [인텔리제이 자바 버전 못가져오는 문제](./intellij-java-version.md)
 - [`Spring Retry` 적용 안되는 문제](./spring-retry.md)
+- [`mybatis` invalid bound statement (not found) 오류](./mybatis-bound.md)
