@@ -12,3 +12,4 @@
 - [페이지 마운팅 중일때 `useState`을 함수로 세팅한 값은 못불러온다](./useState-fun.md)
 - [`useContext` null ... nodemodule 폴더 위치 다름...?](./node-module.md)
 - [`zustand` - `auto-zustand-selectors-hook` 라이브러리 주의사항](./zustand-issue.md)
+- [`useState` 적용 후 바로 사용 시 과거 데이터 가져오는 문제](./useState-error.md)
