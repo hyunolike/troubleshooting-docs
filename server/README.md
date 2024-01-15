@@ -6,3 +6,4 @@
 - [`SSH` - Fingerprint has already been taken](./ssh-fingerprint-error.md)
 - [`MySQLTransactionRollbackException; Lock wait timeout exceeded; try restrating transaction`](./mysql-lock.md)
 - [`SSH` - ssh 터널링 접속 안되는 문제](./ssh-tunneling.md)
+- [`쉘 스크립트₩ - 커멘드 연속 나열시 명령어 인식 못하는 문제](./sh-command.md)
