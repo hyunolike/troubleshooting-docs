@@ -5,3 +5,4 @@
 - [협업과정에서 작성된 코드가 사라지는 문제](./merge-revert.md)
 - [`gitlab` fatal: Unencrypted HTTP is not supported for GitLab. Ensure the repository remote URL is using HTTPS.](./gitlab-http-error.md)
 - [`git statsh` 메시지 에러](./git-stash.md)
+- [`git` tag 충돌 - `rejected - would clobber existing tag`](./git-tag.md)
