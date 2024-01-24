@@ -45,4 +45,5 @@ class CodeRunner{
 	}
 }
 ```
-- 곱셈이 되는 첫번째 int를 `long` 으로 변경!
+
+- 곱셈이 되는 첫번째 int를 `long` 으로 변경! > 응용 `double` 자료형 쓰면 결과값 double!
