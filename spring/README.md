@@ -1,4 +1,5 @@
 # 🍃Spring
+- [`java.util.IllegalFormatConversionException: f != java.lang.Long`](./format.md)
 - [`java.lang.ArithmeticException: / by zero`](./by-zero.md)
 - [JPA ddl 오류](./jpa-ddl-error.md)
 - [스프링부트에서 jsp 사용](./springboot-jsp.md)
