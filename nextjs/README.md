@@ -6,3 +6,4 @@
 - [렌더링 중 오류 발생 - Application error: a client ...](./error-boundary.md)
 - [`react query` QueryClientProvider import 에러](./error-react-query.md)
 - [특정 페이지 접근 시, 브라우저 멈추는 현상](./broswer.md)
+- [`<Image />` 에러 - Unhandled Runtime Error](./img-error.md)
