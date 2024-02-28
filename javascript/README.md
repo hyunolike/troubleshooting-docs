@@ -1,4 +1,5 @@
 # 🐽JavaScript
+- [⭐`ajax` 비동기 처리 안되는 문제](./ajax-async.md)
 - [콘솔 정상 동작 안됨](./plug-in-error.md)
 - [`appendChild()` 에러 ㅠ,ㅠ](./appendchild-error.md)
 - [Uncaught SyntaxError: Invalid or unexpected token](./syntax-error.md)
